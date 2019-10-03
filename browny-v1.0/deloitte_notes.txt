@@ -1,0 +1,10 @@
+data science vs analytics 
+
+science
+hypothesis building
+-unsupervised modeling: what do our clients look like? More of drawing the picture of who or what your target is
+hypothesis testing - 
+predictive modeling 
+- what are you trying to predict? analyzing correlations and making predicitons
+-Supervised modeling: you have a target to try and predict 
+causal analysis - what is causing it by looking at variables, trends and changes
